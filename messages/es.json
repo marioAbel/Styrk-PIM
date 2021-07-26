@@ -1,0 +1,8 @@
+{
+  "admin/admin-app.navigation.label": "Styrk",
+  "admin/admin-app.navigation.search.kws": "styrk, api, key, token",
+  "admin/merchant-styrk.title": "Styrk",
+  "admin/merchant-styrk.settings.styrkId.label": "Styrk Id",
+  "admin/merchant-styrk.settings.styrkId.helpText": "Ingresa Styrk Id",
+  "admin/merchant-styrk.settings.styrkId.buttonText": "Consultar"
+}
