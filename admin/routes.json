@@ -1,6 +1,6 @@
 {
-  "admin.app.admin-app": {
-    "component": "AdminApp",
-    "path": "/admin/app/admin-app"
+  "admin.app.styrk": {
+    "component": "Styrk",
+    "path": "/admin/app/styrk"
   }
 }

@@ -1,6 +1,11 @@
 {
   "section": "other",
   "titleId": "admin-admin-app.navigation.label",
-  "path": "/admin/admin-app",
-  "searchKeyWordsHelpers": "admin-admin-app.navigation.search.kws"
+  "searchKeyWordsHelpers": "admin-admin-app.navigation.search.kws",
+  "subSectionItems": [
+    {
+      "labelId": "admin-admin-app.navigation.sublabel-1",
+      "path": "/admin/styrk"
+    }
+  ]
 }
