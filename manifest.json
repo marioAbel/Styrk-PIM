@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "title": "admin-app-vinneren",
   "description": "admin-app-vinneren",
+  "defaultLocale": "es-MX",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
@@ -13,9 +14,9 @@
   "dependencies": {
     "vtex.styleguide": "9.x"
   },
-  "registries": [
-    "smartcheckout"
-  ],
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
   "policies": [],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
