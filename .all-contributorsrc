@@ -1,6 +1,6 @@
 {
   "projectName": "react-app-template",
-  "projectOwner": "vtex-apps",
+  "projectOwner": "vinneren",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -9,6 +9,8 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    "Mario A. Salvador"
+  ],
   "contributorsPerLine": 7
 }
