@@ -1,0 +1,16 @@
+{
+  "name": "Admin App Vinneren",
+  "headline": "App para configurar el ambiente de la plataforma 'Styrk'",
+  "overview": "Admin app para integrar y configurar la plataforma Styrk",
+  "features": [
+    "Configuración de llaves públicas y privadas"
+  ],
+  "websiteURL": "<https://www.vinneren.com.mx/>",
+  "support": {
+    "email": "mario.abel@vinneren.com.mx"
+  },
+  "metricDescription": {
+    "track": "Descripción en español para metric track",
+    "notify": "Descripción en español para metric track"
+  }
+}

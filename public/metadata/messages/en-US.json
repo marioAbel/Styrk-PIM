@@ -1,0 +1,17 @@
+{
+  "name": "Admin App Vinneren",
+  "headline": "Admin app para integrar y configurar la plataforma Styrk",
+  "overview": "Admin app para integrar y configurar la plataforma Styrk",
+  "features": [
+    "app key and token configuration"
+  ],
+  "additionalInformation": "Additional information\\nYou can also write new lines here\\n\\n\\nIt should work just like the overview",
+  "websiteURL": "<https://www.vinneren.com.mx/>",
+  "support": {
+    "email": "mario.abel@vinneren.com.mx"
+  },
+  "metricDescription": {
+    "track": "metric track",
+    "notify": "metric track"
+  }
+}
