@@ -1,7 +1,7 @@
 {
-  "admin-admin-app.navigation.label": "Styrk",
-  "admin-admin-app.navigation.sublabel-1": "PIM",
-  "admin-admin-app.navigation.sublabel-2": "MDR",
+  "admin/admin-app.navigation.label": "Styrk",
+  "admin/admin-app.navigation.sublabel-1": "PIM",
+  "admin/admin-app.navigation.sublabel-2": "MDR",
   "admin/admin-app.navigation.search.kws": "styrk, api, key, token, configuracion",
   "admin/merchant-styrk.title": "Styrk",
   "admin/merchant-styrk.settings.styrkId.label": "Styrk Id",
