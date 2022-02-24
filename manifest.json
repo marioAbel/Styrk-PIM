@@ -1,7 +1,7 @@
 {
   "vendor": "vinneren",
   "name": "admin-app-vinneren",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "title": "admin-app-vinneren",
   "description": "Admin app to integrate and configure Styrk platform",
   "defaultLocale": "es-MX",
