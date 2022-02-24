@@ -5,8 +5,7 @@
   "features": [
     "app key and token configuration"
   ],
-  "additionalInformation": "Additional information\\nYou can also write new lines here\\n\\n\\nIt should work just like the overview",
-  "websiteURL": "<https://www.vinneren.com.mx/>",
+  "websiteURL": "https://www.vinneren.com.mx/",
   "support": {
     "email": "mario.abel@vinneren.com.mx"
   },

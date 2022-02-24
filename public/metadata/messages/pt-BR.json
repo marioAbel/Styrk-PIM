@@ -5,7 +5,7 @@
   "features": [
     "app key and token configuration"
   ],
-  "websiteURL": "<https://www.vinneren.com.mx/>",
+  "websiteURL": "https://www.vinneren.com.mx/",
   "support": {
     "email": "mario.abel@vinneren.com.mx"
   },
